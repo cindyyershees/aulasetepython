@@ -1,0 +1,25 @@
+nav {
+    width: auto;
+    background-color: #080808;
+    padding: 10px 0 10px 10px; /* top left bottom right*/
+}
+a{
+    width: auto;
+    background-color: #000;
+    height: 60px; /* altura */
+    padding-left: 5px; /* espaço interno esquerdo*/
+    padding-right: 5px; /* espaço interno direito*/
+    text-decoration: none; /*retirar sublinhado do link*/
+    color: #16bbd8;
+    border-radius: 5px;
+}
+
+.card { /*criando cards*/
+    float: left;
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-width:1px;
+    margin-right:10px;
+    padding:10px 10px 10px 10px;
+}
